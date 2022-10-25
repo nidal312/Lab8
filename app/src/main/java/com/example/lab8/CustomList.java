@@ -49,7 +49,7 @@ public class CustomList extends ArrayAdapter<City> {
         return cities.size();
     }
 
-    public void addCity(City city){
+    public int addCity(City city){
 
     }
 
